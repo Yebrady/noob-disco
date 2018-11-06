@@ -1,0 +1,6 @@
+Rectangle 2 5
+Rectangle 4 5
+ThreeDRectangle 2 2 4
+ThreeDRectangle 3 5 8
+ThreeDRectangle 5 7 9
+Rectangle 7 8
